@@ -1,0 +1,1 @@
+cmd_/root/Documents/fh/wygspi/spi_master.ko := arm-linux-ld -r  -T /root/Documents/fh/linux-3.0.8/scripts/module-common.lds --build-id  -o /root/Documents/fh/wygspi/spi_master.ko /root/Documents/fh/wygspi/spi_master.o /root/Documents/fh/wygspi/spi_master.mod.o

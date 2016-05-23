@@ -1,0 +1,1 @@
+cmd_/root/Documents/fh/spi/spi_slave.ko := arm-linux-ld -r  -T /root/Documents/fh/linux-3.0.8/scripts/module-common.lds --build-id  -o /root/Documents/fh/spi/spi_slave.ko /root/Documents/fh/spi/spi_slave.o /root/Documents/fh/spi/spi_slave.mod.o
